@@ -1,6 +1,6 @@
 # Ujian Tengah Semester
 
-#### Sistem Administrasi Server
+### Sistem Administrasi Server
 
 ##### Novandy Prakoso (1202190057)
 
@@ -10,15 +10,13 @@
 
    - ###### Dengan mengklik link yang telah tersedia pada soal uts, maka akan dibawa ke link tersebut dengan tampilan seperti dibawah ini
 
-     <img src="C:\Users\Novandy\OneDrive\Pictures\1.png" alt="1" style="zoom:50%;" />
-
+      ![1](https://user-images.githubusercontent.com/94926477/143079867-a72a0cc1-8a8b-4423-bc3b-10d0f20aaf1e.png)
    - ###### Pilih Download the ISO kemudian ikutin sesuai step by stepnya. Jangan lupa centang yes kemudian continue
 
-     <img src="C:\Users\Novandy\OneDrive\Pictures\2.png" alt="2" style="zoom:50%;" />
-
+      ![2](https://user-images.githubusercontent.com/94926477/143079868-9d0c5f1c-017b-4c1c-b6ea-b3169ad73985.png)
    - ###### Pilih bahasa yang diinginkan dan klik download
 
-     <img src="C:\Users\Novandy\OneDrive\Pictures\3.png" alt="3" style="zoom: 50%;" />
+      ![3](https://user-images.githubusercontent.com/94926477/143079871-57ba195a-b838-4de1-a26a-ce410c957a58.png)
 
 2. ##### Instalasi-Instalasi
 
@@ -26,77 +24,76 @@
 
      - Buka VirtualBox lalu klik "Machine-New" Menu
    
-     ![4](C:\Users\Novandy\OneDrive\Pictures\4.png)
+      ![4](https://user-images.githubusercontent.com/94926477/143079872-f8387a27-ea06-4e3c-a138-3fa12bca33a6.png)
    
      - Masukkan nama dari sistem yang ingin digunakan
    
-     ![5](C:\Users\Novandy\OneDrive\Pictures\5.png)
-   
+      ![5](https://user-images.githubusercontent.com/94926477/143079875-df4e747a-04e5-46e9-be47-fd43aa76c9d8.png)   
      - Sesuaikan RAM dengan Laptop anda kemudian klik Next
    
-     ![6](C:\Users\Novandy\OneDrive\Pictures\6.png)
+      ![6](https://user-images.githubusercontent.com/94926477/143079876-055abeda-a691-44ac-a46e-6f9e23a6c8f9.png)
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\7.png" alt="7" style="zoom: 67%;" />
+      ![7](https://user-images.githubusercontent.com/94926477/143079879-e4f0c445-5003-422c-b235-e7a6d2337672.png)
+      
+      ![8](https://user-images.githubusercontent.com/94926477/143079881-24e210af-4dac-4ca8-bdfa-5a7f60a6358e.png)
+
+     - Sesuaikan size file sesuai dengan yang dari rekomendasi
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\8.png" alt="8" style="zoom:67%;" />
-   
-     - Sesuaikan Size File sesuai dengan yang dr rekomendasi
-   
-     ![9](C:\Users\Novandy\OneDrive\Pictures\9.png)
+      ![9](https://user-images.githubusercontent.com/94926477/143079884-2c517b77-9d67-4a5f-84ea-3e5308bfe7b0.png)
    
      - Setting konfigurasi "Network" dan set "Bridge adapter" pada VBox anda
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\10.png" alt="10" style="zoom:67%;" />
+      ![10](https://user-images.githubusercontent.com/94926477/143079888-190bcad7-bb10-4644-a0f2-82cd7b0daf97.png)
    
      - Klik "Start" kemudian pilih ISO yang sudah ter-unduh
    
-     ![11](C:\Users\Novandy\OneDrive\Pictures\11.png)
+      ![11](https://user-images.githubusercontent.com/94926477/143079891-cdfa3926-8697-417c-83b9-d016d34f7d8a.png)
    
      - Klik "Start" dan instalasi Windows Server 2022 Wizzard muncul
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\12.png" alt="12" style="zoom:50%;" />
+      ![12](https://user-images.githubusercontent.com/94926477/143079894-83eb487d-1ddd-4631-834f-4f8ce7b92402.png)
    
      - Klik Install Now
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\13.png" alt="13" style="zoom: 50%;" />
+      ![13](https://user-images.githubusercontent.com/94926477/143079898-e7052769-0f23-4690-807f-b29bb53a2911.png)
    
      - Pilih lisensi Windows Server Datacenter Evolution(Dekstop Experience) lalu "Next"
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\14.png" alt="14" style="zoom:67%;" />
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\15.png" alt="15" style="zoom:50%;" />
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\16.png" alt="16" style="zoom:50%;" />
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\17.png" alt="17" style="zoom: 67%;" />
+     
+      ![14](https://user-images.githubusercontent.com/94926477/143079901-c3708fcc-1101-4574-96d9-bcee60f96d46.png)
+      
+      ![15](https://user-images.githubusercontent.com/94926477/143079904-66bc4ab5-48dc-4704-8020-0e5e22a4400b.png)
+      
+      ![16](https://user-images.githubusercontent.com/94926477/143079907-cb5a5943-4daa-4ab9-9b37-d3eeeb70283f.png)
+      
+      ![17](https://user-images.githubusercontent.com/94926477/143079909-d1a36246-019c-4666-915e-b27871c9715a.png)
+
    
      - Apabila sudah ter-install sistem akan me-reboot ulang otomatis
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\19.png" alt="19" style="zoom:50%;" />
-   
+      ![19](https://user-images.githubusercontent.com/94926477/143079916-edd98716-84a9-4b74-a0c5-38505d20adf8.png)   
      - klik menu "Input-keyboard-Insert Ctrl+Alt+Del" lalu masukkan password anda yang telah anda buat
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\20.png" alt="20" style="zoom:50%;" />
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\21.png" alt="21" style="zoom:50%;" />
+      ![20](https://user-images.githubusercontent.com/94926477/143079919-957bc606-b0d8-4572-88b0-eace4f69aef8.png)
+      
+      ![21](https://user-images.githubusercontent.com/94926477/143079921-78d8ff31-a376-4ac8-9345-d541eacdfb7c.png)
    
      - lalu klik menu "Devices-Install Guest Additions CD Image" pada VBox
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\22.png" alt="22" style="zoom:50%;" />
+      ![22](https://user-images.githubusercontent.com/94926477/143079922-89f00518-4064-4e7b-836c-6abbeda34f69.png)
    
      - pada "file explorer", run berikut ini kemudian ikuti step nya
    
-     ![24](C:\Users\Novandy\OneDrive\Pictures\24.png)
-   
-     ![25](C:\Users\Novandy\OneDrive\Pictures\25.png)
-   
-     ![26](C:\Users\Novandy\OneDrive\Pictures\26.png)
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\27.png" alt="27" style="zoom:50%;" />
+      ![24](https://user-images.githubusercontent.com/94926477/143079927-ac710f8c-e7d5-4826-a6ca-39640d6ba0b0.png)
+      
+      ![25](https://user-images.githubusercontent.com/94926477/143079929-825ef066-2cbe-4c7d-b730-c5d0cb3f014e.png)
+      
+      ![26](https://user-images.githubusercontent.com/94926477/143079930-bbe3063b-7594-48b1-9953-26038ade42a2.png)
+      
+      ![27](https://user-images.githubusercontent.com/94926477/143079931-8212cb1d-dd29-4c8d-b37e-7e74144b5217.png)
    
      - Setelah itu sistem akan me-reboot otomatis, lalu masukkan lagi password anda
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\28.png" alt="28" style="zoom:50%;" />
+      ![28](https://user-images.githubusercontent.com/94926477/143079932-b2437593-f99d-47b5-84da-edcae0a95225.png)
    
      
    
@@ -104,37 +101,37 @@
    
      - Sebelum melakukan instalasi, kita merubah nama computer terlebih dahulu dengan masuk ke windows powershell. Kemudian ketikkan “rename-computer -Newname Server2022”
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\29.png" alt="29" style="zoom:67%;" />
+     ![29](https://user-images.githubusercontent.com/94926477/143079936-1290b0bb-5bcb-4b13-a4a8-197753b1ed22.png)
    
      - Masuk ke menu “Server Manager”. Lalu pilih opsi “Manage:,dilanjutkan dengan mengklik “Add Roles and Features”. Kemudian klik “Next"
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\30.png" alt="30" style="zoom: 50%;" />
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\31.png" alt="31" style="zoom:50%;" />
+      ![30](https://user-images.githubusercontent.com/94926477/143079938-88aa7886-706c-4eca-b3bb-ab63e3d79613.png)
+      
+      ![31](https://user-images.githubusercontent.com/94926477/143079942-952f5f76-ed1a-4143-88bb-58087c096e27.png)
    
      - Pilih opsi “Role-based or feature-based installation”. Lalu “Next”
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\32.png" alt="32" style="zoom:50%;" />
+    
+      ![32](https://user-images.githubusercontent.com/94926477/143079944-d5f6fc04-682e-4cd9-856b-937b04d86c34.png)
    
      - Klik “Select a server from the server pool” untuk memilih direktori penyimpanan lokal. Lalu “Next”
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\33.png" alt="33" style="zoom:50%;" />
+      ![33](https://user-images.githubusercontent.com/94926477/143079947-f7e8a219-3008-465d-9af3-a3e4f5875600.png)
    
      - Selanjutnya, berikan tanda centang di kotak “Active Directory Domain Services”. Saat anda mencentang kotak, disebelah kanan muncul penjelasan singkat tentang ADDS dan cara kerjanya. Lalu klik “Add Features”
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\34.png" alt="34" style="zoom:50%;" />
+      ![34](https://user-images.githubusercontent.com/94926477/143079952-89c60246-f8b5-4a00-b0a9-512c9906ebdb.png)
    
      - Kemudian centang kotak “Group Policy Management” dan tekan tombol “Next”
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\35.png" alt="35" style="zoom:50%;" />
+      ![35](https://user-images.githubusercontent.com/94926477/143079955-0ce1a32d-255e-4949-bb32-fb1a7fcf7a1b.png)
    
      - Kik "Next"
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\36.png" alt="36" style="zoom:50%;" />
+      ![36](https://user-images.githubusercontent.com/94926477/143079960-649e9181-505e-4d9c-bd97-fcd95423c0d0.png)
    
      - Klik "Install" dan tunggu hingga selesai
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\37.png" alt="37" style="zoom:50%;" />
+      ![37](https://user-images.githubusercontent.com/94926477/143079963-8e81c98c-4b4f-4407-acec-2e02a8f7595f.png)
    
      
    
@@ -142,7 +139,7 @@
    
      - Masuk ke menu “Server Manager”. Lalu pilih opsi “Manage:,dilanjutkan dengan mengklik “Add Roles and Features”. Kemudian klik “Next”. Stepnya sama seperti instalasi active directory. Kita perlu menginstal dan mengonfigurasi peran Active Directory dan server DNS untuk bekerja bersama
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\38.png" alt="38" style="zoom:50%;" />
+      ![38](https://user-images.githubusercontent.com/94926477/143079965-89adc20e-028e-4250-8440-2675fe5ba659.png)
    
      
    
@@ -150,19 +147,19 @@
    
      - Centang "NET Framework 3.5 Features"
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\39.png" alt="39" style="zoom:50%;" />
+      ![39](https://user-images.githubusercontent.com/94926477/143079966-8e61d638-ad55-489d-98fa-b4fde2cce793.png)
    
      - Lalu Klik "Next"
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\40.png" alt="40" style="zoom:50%;" />
+      ![40](https://user-images.githubusercontent.com/94926477/143079969-fed7bb96-43de-4d32-bd69-964093d09f82.png)
    
      - Lalu Klik "Install"
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\41.png" alt="41" style="zoom:50%;" />
+      ![41](https://user-images.githubusercontent.com/94926477/143079970-e8875926-69ec-4959-89a8-310c903d3cd7.png)
    
      - Lalu tunggu hingga selesai
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\42.png" alt="42" style="zoom:50%;" />
+      ![42](https://user-images.githubusercontent.com/94926477/143079971-1155f308-ba29-44d8-a430-a319d4aff789.png)
    
      
    
@@ -173,63 +170,63 @@
      - Setting IP Address Server-ADDS dan mengarah DNS ke IP address static yang digunakan
      - Seting ke ip static menggunakan cmd, ketik "sconfig" - ketik "1"
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\43.png" alt="43" style="zoom: 67%;" />
+      ![43](https://user-images.githubusercontent.com/94926477/143079973-3ceb7416-3abc-415c-bf20-07e4b7981001.png)
    
      - Kemudian setting network
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\44.png" alt="44" style="zoom: 67%;" />
+      ![44](https://user-images.githubusercontent.com/94926477/143079976-f7ae77ff-ee50-4f5f-8bc3-7f7b82394133.png)
    
      - Setting IP Address Server-ADDS dan mengarah DNS ke IP address static yang digunakan
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\45.png" alt="45" style="zoom: 67%;" />
+      ![45](https://user-images.githubusercontent.com/94926477/143079978-8c1925b6-a0ad-4ad8-9034-f967e08ac748.png)
    
      - Klik “Promote this server to a domain controller" untuk konfigurasi ADDS
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\46.png" alt="46" style="zoom:50%;" />
+      ![46](https://user-images.githubusercontent.com/94926477/143079982-d84e918f-0857-4d77-b113-c8ca99a2fd0a.png)
    
      - Pilih “Add a new forest” dan masukkan nama domain yang akan digunakan pada Root Domain Name. Misalnya disini saya menggunakan domain “Novan.com"
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\47.png" alt="47" style="zoom: 67%;" />
+      ![47](https://user-images.githubusercontent.com/94926477/143079984-a2e58ed3-157d-4a3c-9801-adae29d0c6fc.png)
    
      - Pilih “Windows Server 2016” pada functional level, beri tanda centang pada “Domain Name System (DNS) server” dan ”Global Catalog (GC)”. Serta mengisi password Directory Services Restore Mode dengan kriteria strong password
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\48.png" alt="48" style="zoom: 67%;" />
+      ![48](https://user-images.githubusercontent.com/94926477/143079988-042de6e3-3a82-46a6-b5fd-773c9787379f.png)
    
      - Lewati bagian DNS Options, lalu klik “Next”
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\49.png" alt="49" style="zoom:67%;" />
+      ![49](https://user-images.githubusercontent.com/94926477/143079991-767c5dd2-b103-42c5-aa9e-5aa30bf5d75f.png)
    
      - Mengisi “The NetBIOS domain name” sesuai dengan nama domain yang digunakan
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\50.png" alt="50" style="zoom:67%;" />
+      ![50](https://user-images.githubusercontent.com/94926477/143079996-3dfe1af6-db6e-4a8c-bde9-cad0eb1caf15.png)
    
      - Lewati bagian Paths, klik “Next”
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\51.png" alt="51" style="zoom:67%;" />
+      ![51](https://user-images.githubusercontent.com/94926477/143079847-5cfaee9f-db86-4267-929a-6e85a129f105.png)
    
      - Cek konfigurasi yang ditentukan pada Review Options, jika suda ok. Klik “Next”
-   
-     <img src="C:\Users\Novandy\OneDrive\Pictures\52.png" alt="52" style="zoom:67%;" />
+     
+      ![52](https://user-images.githubusercontent.com/94926477/143079856-73495ba0-837e-4979-80fb-6b3cfffa2008.png)
    
      - Jika sudah ada tulisan All prerequisite checks passed successfully. Klik “Install” untuk apply konfigurasi yang sudah ditentukan
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\53.png" alt="53" style="zoom:67%;" />
+      ![53](https://user-images.githubusercontent.com/94926477/143079858-f474ac9a-2afc-4c44-aa33-6302386eb30d.png)
    
      - Tunggu Instalasi hingga selesai
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\54.png" alt="54" style="zoom:67%;" />
+      ![54](https://user-images.githubusercontent.com/94926477/143079859-e3dc97cc-63d8-49bd-886c-d182063e4130.png)
    
      - Apabila sudah selesai sistem akan auto reboot, lalu cek hasil konfigurasi, buka cmd dan ketikkan “netdom query fsmo”
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\55.png" alt="55" style="zoom:67%;" />
+      ![55](https://user-images.githubusercontent.com/94926477/143079861-56e50dfd-cf96-42b1-a078-00e67a995fd1.png)
    
      - Setelah login dengan Active Directory Domain Controller Anda, buka properti TCP/IP koneksi jaringan Anda. Anda dapat melihat Alamat IP server DNS
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\56.png" alt="56" style="zoom:67%;" />
+      ![56](https://user-images.githubusercontent.com/94926477/143079862-ca931b04-e13c-4a87-9028-d94dc8df8032.png)
    
      - Kemudian ubah IP Address sesuai dengan awal tadi
    
-     <img src="C:\Users\Novandy\OneDrive\Pictures\57.png" alt="57" style="zoom:67%;" />
+      ![57](https://user-images.githubusercontent.com/94926477/143079866-c1b72d28-0bc9-4e84-9f4a-7fed9806d481.png)
    
      
    
